@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- Latar rounded memudar -->
+  <rect width="24" height="24" rx="24" fill="#4a7233"/>
+  <g fill="#ffffff" transform="translate(12 12) scale(0.8) translate(-12 -12)">
+    <rect x="10.3" y="0.9" width="3.4" height="3.2" rx="1"/>
+    <rect x="10.3" y="0.9" width="3.4" height="3.2" rx="1" transform="rotate(45 12 12)"/>
+    <rect x="10.3" y="0.9" width="3.4" height="3.2" rx="1" transform="rotate(90 12 12)"/>
+    <rect x="10.3" y="0.9" width="3.4" height="3.2" rx="1" transform="rotate(135 12 12)"/>
+    <rect x="10.3" y="0.9" width="3.4" height="3.2" rx="1" transform="rotate(180 12 12)"/>
+    <rect x="10.3" y="0.9" width="3.4" height="3.2" rx="1" transform="rotate(225 12 12)"/>
+    <rect x="10.3" y="0.9" width="3.4" height="3.2" rx="1" transform="rotate(270 12 12)"/>
+    <rect x="10.3" y="0.9" width="3.4" height="3.2" rx="1" transform="rotate(315 12 12)"/>
+    <circle cx="12" cy="12" r="9.4"/>
+    <circle cx="12" cy="12" r="6.9" fill="#4a7233"/>
+    <path d="M10.75 6.9h2.5v3.85h3.85v2.5h-3.85v3.85h-2.5v-3.85H6.9v-2.5h3.85z"/>
+  </g>
+</svg>
